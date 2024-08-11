@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋 I am Jian Zhang. Now I am a Ph.D. student in Computer Vision at Mohamed bin Zayed University of Artificial Intelligence (MBZUAI).
+
 
 <!--
 **jianzhang96/jianzhang96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
