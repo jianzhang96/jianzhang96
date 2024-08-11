@@ -1,4 +1,7 @@
-## Hi there 👋 I am Jian Zhang. Now I am a Ph.D. student in Computer Vision at Mohamed bin Zayed University of Artificial Intelligence (MBZUAI).
+## Hi there 👋 
+I am Jian Zhang. Now I am a Ph.D. student in Computer Vision at Mohamed bin Zayed University of Artificial Intelligence (MBZUAI). </br>
+I hold a Master of Science in Computer Applied Technology from Peking University, and Bachelor of Engineering in Computer Science from Hefei University of Technology.
+
 
 
 <!--
